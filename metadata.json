@@ -1,0 +1,6 @@
+{
+  "name": "Universo 3D - Tienda de Impresión 3D",
+  "description": "Tienda online de productos de impresión 3D, filamentos, figuras articuladas, piezas técnicas y pedidos personalizados por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
